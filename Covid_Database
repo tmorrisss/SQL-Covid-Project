@@ -1,0 +1,8 @@
+-- select *
+-- from CovidDeaths
+-- order BY 3,4
+
+-- select *
+-- from CovidVaccinations
+-- order BY 3,4
+
