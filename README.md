@@ -1,3 +1,3 @@
-# SQL_Covid_Project
+# SQL_Projects
 
-A collection of my SQL project centered around Covid-19 dataset from ourworldindata.com
+A collection of my SQL projects. 
